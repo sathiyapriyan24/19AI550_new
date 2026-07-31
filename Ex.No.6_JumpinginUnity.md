@@ -48,11 +48,12 @@ public class PlayerJump : MonoBehaviour
 }
 ```
 ### Output:
+<img width="1600" height="831" alt="WhatsApp Image 2026-07-31 at 14 48 44" src="https://github.com/user-attachments/assets/68315427-20aa-4610-b0c4-26482ddff505" />
 
 <img width="1600" height="827" alt="WhatsApp Image 2026-07-31 at 14 49 14" src="https://github.com/user-attachments/assets/19b0c1be-b597-48c1-9b47-f713bcade840" />
 
 
-<img width="1600" height="831" alt="WhatsApp Image 2026-07-31 at 14 48 44" src="https://github.com/user-attachments/assets/68315427-20aa-4610-b0c4-26482ddff505" />
+
 
 
 

@@ -136,6 +136,7 @@ Check the following
 2. Neighbors set manually via Inspector
 3. WaypointGraph script on a manager
 4. AICharacter assigned a start and goal
+```
 ### Output:
 
 <img width="1600" height="900" alt="WhatsApp Image 2026-08-07 at 14 44 29" src="https://github.com/user-attachments/assets/cbb3092f-d195-4c4e-9534-544659c107ec" />
